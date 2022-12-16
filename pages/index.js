@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
       <main className="main">
           <div className="main-con">
-              <h1>Matrix Bank is under development, please check back soon!</h1>
+              <h1>Matrix Bank is under development, please check back later!</h1>
               <SpinnerInfinity
                   size="40%"
                   color='#00264D'
